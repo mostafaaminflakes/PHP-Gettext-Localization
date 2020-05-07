@@ -1,0 +1,31 @@
+html, body {
+	direction: rtl;
+	font-family: tahoma;
+	margin: 0;
+	background-color: #eee;
+}
+.languages_bar {background-color:#bbb; margin: 0; padding: 5px; font-size: 14px;}
+.languages_bar a:link, a:visited { color: #333; text-decoration: none; margin-left: 5px; }
+.languages_bar a:hover { color: #999; }
+.languages_bar a.ar { color: #eee; }
+nav {
+	padding:10px;
+	color: #f1f1f1;
+	border-bottom: 3px solid #afafaf;
+	line-height: 1.75em;
+	background: #555 url('../../images/header_bg_ar.jpg') no-repeat left top;
+}
+nav a:link, nav a:visited { color: #FFF; }
+nav a:hover { color: #CCC; }
+section {padding:20px;}
+h1 { font-weight: normal; font-size: 33px; margin: 5px 0; }
+@media screen and (max-width: 700px) {
+	nav {
+		background-image: url('../../images/header_bg2_ar.jpg');
+	}
+}
+@media screen and (max-width: 407px) {
+	nav {
+		background-image: url('../../images/header_bg3_ar.jpg');
+	}	
+}

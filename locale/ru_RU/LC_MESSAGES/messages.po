@@ -1,0 +1,68 @@
+# Sample translation for PHP-gettext 1.0
+# Copyright (c) 2003 Danilo Segan <danilo@kvota.net>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-03-03 17:59+0300\n"
+"PO-Revision-Date: 2020-05-07 01:16+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar_SA\n"
+
+msgid "Locale"
+msgstr "ru_RU"
+
+msgid "Site_title"
+msgstr "локализация"
+
+msgid "Css_locale"
+msgstr "ru"
+
+msgid "Home"
+msgstr "домашняя страница"
+
+msgid "Features"
+msgstr "особенности"
+
+msgid "Guide"
+msgstr "Руководство"
+
+msgid "Packages"
+msgstr "пакеты"
+
+msgid "Partners"
+msgstr "партнеры"
+
+msgid "Contact"
+msgstr "Связаться с нами"
+
+msgid "Login"
+msgstr "Авторизоваться"
+
+msgid "Register"
+msgstr "регистр"
+
+msgid "Welcome"
+msgstr "Добро пожаловать на наш сайт."
+
+msgid "Description"
+msgstr "Мы предлагаем скидки на наши пакеты."
+
+msgid "Language"
+msgstr "русский"
+
+msgid "Success"
+msgstr "Успешно загружены пользовательские языковые строки."
+
+msgid "Usage"
+msgstr "Я буду использовать его сейчас на моем сайте."
+
+msgid "Loaddata"
+msgstr "Загрузить данные"

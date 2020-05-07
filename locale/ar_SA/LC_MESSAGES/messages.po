@@ -1,0 +1,67 @@
+# Copyright (c) 2003 Danilo Segan <danilo@kvota.net>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-03-03 17:59+0300\n"
+"PO-Revision-Date: 2020-05-07 01:17+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar_SA\n"
+
+msgid "Locale"
+msgstr "ar_sa"
+
+msgid "Site_title"
+msgstr "التعريب"
+
+msgid "Css_locale"
+msgstr "ar"
+
+msgid "Home"
+msgstr "الرئيسية"
+
+msgid "Features"
+msgstr "المميزات"
+
+msgid "Guide"
+msgstr "الدليل"
+
+msgid "Packages"
+msgstr "الباقات"
+
+msgid "Partners"
+msgstr "الشركاء"
+
+msgid "Contact"
+msgstr "اتصل بنا"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Register"
+msgstr "تسجيل جديد"
+
+msgid "Welcome"
+msgstr "مرحبا بك في موقعنا."
+
+msgid "Description"
+msgstr "نحن نقدم خصومات على باقاتنا الآن."
+
+msgid "Language"
+msgstr "العربية"
+
+msgid "Success"
+msgstr "تم تحميل سلاسل اللغة المخصصة بنجاح."
+
+msgid "Usage"
+msgstr "سأستخدمه الآن في موقع الويب الخاص بي."
+
+msgid "Loaddata"
+msgstr "تحميل البيانات"
